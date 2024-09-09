@@ -1,0 +1,12 @@
+{
+    "rewrites": {
+      "source": "/api/(.*)",
+      "destination": "/api"
+    },
+    "database-todo": [
+      {
+        "id": "438a",
+        "activiti": "Baca Al Qur'an"
+      }
+    ]
+  }
