@@ -2,9 +2,9 @@
   "name": "new-folder",
   "version": "1.0.0",
   "description": "",
-  "main": "json-server --watch db.json --port 8080",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 8080",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
